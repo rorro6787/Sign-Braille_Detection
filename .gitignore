@@ -1,0 +1,7 @@
+venv/
+src/braille_detection/train/braille_dataset/
+src/braille_detection/train/braille.zip
+src/braille_detection/train/Braille_Detection_Model.zip
+src/sign_language_detection/train/sign_dataset/
+src/sign_language_detection/train/sign.zip
+src/sign_language_detection/train/Signs_Language_Detection_Model.zip
