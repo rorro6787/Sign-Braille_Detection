@@ -5,3 +5,5 @@ src/braille_detection/train/Braille_Detection_Model.zip
 src/sign_language_detection/train/sign_dataset/
 src/sign_language_detection/train/sign.zip
 src/sign_language_detection/train/Signs_Language_Detection_Model.zip
+src/braille_detection/test/predictions/
+src/sign_language_detection/test/predictions/
